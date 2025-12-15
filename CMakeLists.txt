@@ -13,4 +13,4 @@ add_executable(TF_C
         .idea/vcs.xml
         .idea/workspace.xml
         README.md
-        xadrez.c)
+        Arcade.c)
